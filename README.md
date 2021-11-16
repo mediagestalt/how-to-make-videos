@@ -1,1 +1,1 @@
-# How to make videos for YouTube (without narrating them yourself)
+# How to make short instructional videos for YouTube (without narrating them yourself!)

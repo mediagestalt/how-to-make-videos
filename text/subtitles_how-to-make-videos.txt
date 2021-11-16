@@ -1,0 +1,184 @@
+
+
+How to make short instructional videos for YouTube; without narrating them yourself!
+
+
+
+The methods used in this video prioritize accessibility, as one single transcript is used to create both the audio and the subtitles. Users can slow the video down, or pause it, so that it is easier to learn and practice skills.
+
+
+
+Disclaimer: This tutorial primarily features Mac computers. For reasons unbeknownst to me, the workflow for recording voice to text on PC computers is complex. Too complex to communicate in a video such as this. I plan to release a PC version of this tutorial once I can simplify the process.
+
+
+
+You’ll need: an idea, screen record tool, text editor, and a simple video editor, like Adobe Rush, or Camtasia.
+
+
+
+Step 1: come up with an idea.
+
+
+
+Video tutorials teach discrete, observable skills. Focus on one skill at a time; remember, you can always make a series!
+
+
+
+Potential ideas for DLI videos: How to use the CPI data visualization tool; How to use the Census web data services; How to find a Census Tract number.
+
+
+
+Step 2: stay organized.
+
+
+
+Create a folder for each type of asset: audio, text, and video. Name each asset with the same convention. For example, in the text folder, save the transcript file as 'transcript_project-name.txt'
+
+
+
+Step 3: record your screen.
+
+
+
+Make a screen recording of the skill you wish to demonstrate. It helps to practice a few times before you begin. Try to keep the recording less than 3 to 4 minutes long. 
+
+
+
+Save your screen recording in the video folder.
+
+
+
+Before you begin, turn your notifications off, for privacy. 
+
+
+
+Press, command shift 5 to open the screen recording options. Adjust the screen capture window.
+
+
+
+From the options menu: set save location, set timer, set microphone as none, set show mouse clicks.
+
+
+
+Step 4: write it down.
+
+
+
+Open the Text Edit program. As you watch the video you just recorded, type out a transcript that describe the actions in your screen recording. Use clear, concise language, say the name of any button or link you press, and don’t add extra information. If it’s not on the screen, don’t talk about it! 
+
+
+
+Save your transcript in the ‘text’ folder.
+
+
+
+Use commas or semicolons as natural pauses in the text. As an example, listen to the difference between the following sentences. 
+
+
+
+Statistics Canada Data finding and adjusting tables. Or.
+
+
+
+Statistics Canada Data, finding and adjusting tables.
+
+
+
+Use, [[slnc 1000]], wrapped in double square brackets, between phrases for longer pauses. 
+
+
+
+1000 = 1 second.
+
+
+
+Step 5: convert text to audio.
+
+
+
+Open the System Preferences application. 
+
+
+
+Press Keyboard Shortcuts. Then in the Services menu, enable Add Music as a Spoken Track.
+
+
+
+Go back to Text Edit and highlight your entire transcript by pressing Command A. Then, in the top left menu bar click on Text Edit > Services > Add Music as a Spoken Track. Select the narration voice, and set the filename. 
+
+
+
+Changing the file location doesn't always work, so let the file open in Apple Music. 
+
+
+
+You will need to adjust your transcript to get the phrasing and the pauses right. Edit the transcript as you listen to the recording. Cut out unnecessary words. 
+
+
+
+Remember, use clear, concise language. 
+
+
+
+When you've finished making edits, copy the file, and then paste it into the Audio folder.
+
+
+
+Step 6: put it all together.
+
+
+
+Create a new project in Adobe Rush, or whatever video editing software you use, and import your audio and video assets. If you have more than one video file, import them in order.
+
+
+
+Adobe Rush has a lot of features. You can create custom title screens and overlays.
+
+
+
+You can also add transitions between sections of the video.
+
+
+
+It’s likely that the audio is longer than the video, or vice versa. Fix the timing by adjusting the speed of the video. Splice the video to adjust the speed in specific sections. Do not adjust the audio speed.
+
+
+
+If things still aren't right, you may need to edit your transcript and re record the audio. This takes less time than redoing the video.
+
+
+
+Step 7: create the subtitles
+
+
+
+Save a copy of 'transcript_project-name.txt' as 'subtitles_project-name.txt'. Remove the extra commas and timing codes, but keep the newlines between phrases.
+
+
+
+Upload the video to YouTube, then copy/paste the subtitle text into the subtitles editor.
+
+
+
+The great thing about these videos is that they are easy to edit. If something changes, you just need to update the transcript and subtitle files, re-record the audio, splice the change into the video, and push it back to YouTube. 
+
+
+
+Keeping an organized file structure ensures that you have access to all of the original assets, and it makes it much easier to change the video when you need to. 
+
+
+Questions? Get in touch with me at 'sandra.sawchuk@msvu.ca'
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
