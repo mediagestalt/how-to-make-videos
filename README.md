@@ -1,1 +1,5 @@
 # How to make short instructional videos for YouTube (without narrating them yourself!)
+
+This repository contains the sample assets and file directory structure for [How to make short instructional videos](https://youtu.be/Bz6TwChfSe4), a lightning talk presentation at the [2021 DLI National Training](https://dli-training.github.io).
+
+Tutorial videos are becoming increasingly popular, as they allow viewers to learn at their own pace and rewatch content as many times as they need. These videos are indispensable for supplementing classroom instruction, but they are labour-intensive and they can become outdated very quickly. This lightning talk describes a streamlined method for creating tutorial videos that uses text-to-voice narration recorded from a single transcript. The transcript is also used for subtitles, which enhances accessibility, while reducing the overall time spent on content creation. For a sample of this method, see this video: [Statistics Canada - Finding and Adjusting Tables](https://youtu.be/A5l5Pvkca8A). For now, this tutorial is only available for Mac users, though a tutorial for PC is forthcoming.
